@@ -1,0 +1,32 @@
+[
+      {
+        "id": "c1",
+        "name": "Fruits & Vegetables",
+        "image": "assets/images/fruits.jpeg",
+        "description": "A variety of fresh fruits and vegetables."
+      },
+      {
+        "id": "c2",
+        "name": "Bakery Cakes and Dairy",
+        "image": "assets/images/bakery.jpeg",
+        "description": "The best cupcakes, cookies, pies, cheesecakes, fresh bread,milk and more."
+      },
+      {
+        "id": "c3",
+        "name": "Beverages",
+        "image": "assets/images/beverages.jpeg",
+        "description": "Our beverage dept will ensure your fridge is always fully stocked."
+      },
+      {
+        "id": "c4",
+        "name": "Beauty and Hygiene",
+        "image": "assets/images/beauty.jpeg",
+        "description": "Buy beauty and personal care products online in India at best prices."
+      },
+      {
+        "id": "c5",
+        "name": "Baby Care",
+        "image": "assets/images/babycare.jpeg",
+        "description": "Shop online for baby products, diapers, skin care products etc."
+      }
+]

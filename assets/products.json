@@ -1,0 +1,187 @@
+{
+	"c1": [
+		{
+			"id": "F1",
+			"img": "assets/images/apples.jpg",
+			"name": "Apple",
+			"price": 200,
+			"weight": 1
+		},
+		{
+			"id": "F2",
+			"img": "assets/images/grapes.jpeg",
+			"name": "Grapes",
+			"price": 100,
+			"weight": 1
+		},
+		{
+			"id": "F3",
+			"img": "assets/images/banana.jpeg",
+			"name": "Banana",
+			"price": 65,
+			"weight": 2
+		},
+		{
+			"id": "F4",
+			"img": "assets/images/tomato.jpeg",
+			"name": "Tomato",
+			"price": 35,
+			"weight": 1
+		},
+		{
+			"id": "F5",
+			"img": "assets/images/potato.jpeg",
+			"name": "Potato",
+			"price": 150,
+			"weight": 5
+		}
+	],
+	"c2": [
+		{
+			"id": "B1",
+			"img": "assets/images/bread.jpeg",
+			"name": "Wheat bread",
+			"price": 90,
+			"weight": 1
+		},
+		{
+			"id": "B2",
+			"img": "assets/images/cupcake.jpeg",
+			"name": "Cupcake",
+			"price": 80,
+			"weight": 4
+		},
+		{
+			"id": "B3",
+			"img": "assets/images/puffs.jpeg",
+			"name": "Puffs",
+			"price": 120,
+			"weight": 2
+		},
+		{
+			"id": "B4",
+			"img": "assets/images/cookie.jpeg",
+			"name": "Cookies",
+			"price": 75,
+			"weight": 1
+		},
+		{
+			"id": "B5",
+			"img": "assets/images/cake.jpeg",
+			"name": "Cake",
+			"price": 400,
+			"weight": 1
+		}
+	],
+	"c3": [
+		{
+			"id": "Bv1",
+			"img": "assets/images/pepsi.jpeg",
+			"name": "Pepsi",
+			"price": 45,
+			"weight": 1
+		},
+		{
+			"id": "Bv2",
+			"img": "assets/images/lipton.jpeg",
+			"name": "Lipton Ice Tea",
+			"price": 78,
+			"weight": 1
+		},
+		{
+			"id": "Bv3",
+			"img": "assets/images/soda.jpeg",
+			"name": "Club Soda",
+			"price": 25,
+			"weight": 1
+		},
+		{
+			"id": "Bv4",
+			"img": "assets/images/real.jpeg",
+			"name": "Real Apple Juice",
+			"price": 195,
+			"weight": 1
+		},
+		{
+			"id": "Bv5",
+			"img": "assets/images/amul.jpeg",
+			"name": "Amul Milk Shake",
+			"price": 55,
+			"weight": 1
+		}
+	],
+	"c4": [
+		{
+			"id": "H1",
+			"img": "assets/images/dove.jpeg",
+			"name": "Dove Shampoo",
+			"price": 60,
+			"weight": 1
+		},
+		{
+			"id": "H2",
+			"img": "assets/images/ponds.jpeg",
+			"name": "Ponds face cream",
+			"price": 700,
+			"weight": 1
+		},
+		{
+			"id": "H3",
+			"img": "assets/images/himalaya.jpeg",
+			"name": "Himalaya Moisturizer",
+			"price": 60,
+			"weight": 1
+		},
+		{
+			"id": "H4",
+			"img": "assets/images/parachute.jpg",
+			"name": "Parachute coconut oil",
+			"price": 150,
+			"weight": 1
+		},
+		{
+			"id": "H5",
+			"img": "assets/images/pears.jpeg",
+			"name": "Pears soap",
+			"price": 90,
+			"weight": 1
+		}
+	],
+	"c5": [
+		{
+			"id": "By1",
+			"img": "assets/images/massage.jpg",
+			"name": "Chikoo Massage Oil",
+			"price": 280,
+			"weight": 1
+		},
+		{
+			"id": "By2",
+			"img": "assets/images/meemee.jpg",
+			"name": "Mee-Mee toothbrush",
+			"price": 260,
+			"weight": 1
+		},
+		{
+			"id": "By3",
+			"img": "assets/images/kit.jpeg",
+			"name": "Mama earth kit",
+			"price": 850,
+			"weight": 1
+		},
+		{
+			"id": "By4",
+			"img": "assets/images/wipes.jpeg",
+			"name": "Himalaya wet wipes",
+			"price": 210,
+			"weight": 1
+		},
+		{
+			"id": "By5",
+			"img": "assets/images/pampers.jpeg",
+			"name": "Pampers diaper",
+			"price": 650,
+			"weight": 1
+		}
+	]
+}
